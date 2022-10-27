@@ -44,5 +44,7 @@ Run the program.
 So, the plant is: pumpkin.
 Conclusion.
 This project really took us a lot of time to finish. Firstly, I should know what is the plaintext and ciphertext, if that is not clear, this project cannot be processed. Secondly, create two file_sigs were not simple than I thought. The most important part is the codes. Appearently, I cannot write the codes for now, so, find a good code is the crucial point. After modified the codes a bit, I successfully finished the project. From the project, I graduately knew that how meet in the middle attack works per se, once I know the mechanism, it is easy to realize it.
+
+
 References.
 https://github.com/thomwiggers/des-meet-in-the-middle/blob/master/README.md https://www.rapidtables.com/convert/number/hex-to-ascii.html http://www.softcircuits.com/Products/CygnusFE https://www.youtube.com/watch?v=IZFaZDO3-GQ&feature=youtu.be https://stackoverflow.com/questions/30550346/understanding-image-its-hex-values
